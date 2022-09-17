@@ -1,0 +1,13 @@
+1° Download do GIT no Link: git-scm.com/downloads
+
+2° Executar instalador
+
+3° Realizar login com e-mail e senha
+
+4° Criar 1° repositório e clonar código para edição local comando: git clone https://github.com/alexdgouvea/Dio_desafio_Github_1-_reposit-rio.git
+
+5° atualizar modificações git add .
+
+6° git commit -m "comentários"
+
+5° após modificações realizar upload : git push origin main 
